@@ -1,0 +1,2 @@
+# soulpaw-backend
+ruff
